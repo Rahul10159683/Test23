@@ -263,6 +263,7 @@ const BagReceive = () => {
                                             </th>
                                         </tr>
                                     </thead>
+                                    <div></div>
                                     <tbody>{renderTableRows()}</tbody>
                                 </table>
                             </div>
